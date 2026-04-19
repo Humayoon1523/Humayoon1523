@@ -35,7 +35,7 @@
 
 ## 🐍 Contribution Snake  
 
-![Snake](https://raw.githubusercontent.com/Humayoon1523/Humayoon1523/output/dist/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/Humayoon1523/Humayoon1523/output/github-contribution-grid-snake.svg)
 
 ---
 
