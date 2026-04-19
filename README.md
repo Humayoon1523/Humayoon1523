@@ -33,6 +33,12 @@
 
 ---
 
+## 🐍 Contribution Snake  
+
+![Snake](https://raw.githubusercontent.com/Humayoon1523/Humayoon1523/output/dist/github-contribution-grid-snake.svg)
+
+---
+
 ## 📊 GitHub Stats
 
 👉 Visit my profile: https://github.com/Humayoon1523
