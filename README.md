@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Mohamed Humayoon
 
-<!--
-**Humayoon1523/Humayoon1523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Developer | 🧠 AI Enthusiast | 🚀 Tech Explorer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* Passionate about technology
+* Learning AI / Machine Learning
+* Interested in Web Development & DBMS
+* Problem-solving mindset
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/Humayoon1523
+* LinkedIn: https://www.linkedin.com/in/mohamed-humayoon-2421aa2a9/
+* HackerRank: https://www.hackerrank.com/profile/mohamedhumayoon1
+* Portfolio: https://humayoon1523.github.io/portfolio/
+
+---
+
+## ⚡ Tech Stack
+
+* Python
+* HTML
+* CSS
+* JavaScript
+* MySQL
+* Git
+
+---
+
+## 📊 GitHub Stats
+
+👉 Visit my profile: https://github.com/Humayoon1523
+
+---
+
+## 🎯 Projects
+
+👉 Portfolio:
+https://humayoon1523.github.io/portfolio/
+
+👉 Check pinned repositories in my GitHub profile
+
+---
+
+## 🏆 Coding Profile
+
+* HackerRank:
+  https://www.hackerrank.com/profile/mohamedhumayoon1
+
+---
+
+## ✨ Quote
+
+"Build. Learn. Improve. Repeat."
